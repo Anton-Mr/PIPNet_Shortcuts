@@ -1,3 +1,9 @@
+# Forked Repository
+
+# original dataset to be found under : https://github.com/M-Nauta/PIPNet?tab=readme-ov-file
+
+
+
 # PIP-Net: Patch-Based Intuitive Prototypes for Interpretable Image Classification
 This repository presents the PyTorch code for PIP-Net (Patch-based Intuitive Prototypes Network). 
 
